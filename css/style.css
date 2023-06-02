@@ -1,0 +1,29 @@
+body{
+    background-color: lightgreen;
+}
+
+h1{
+   background-color: rgb(235, 235, 120);
+   border: red dashed;
+   text-align: center;
+   margin: auto;
+   width: 70%;
+   padding: 30px,30px,30px,30px;
+
+}
+
+p{
+   background-color: lightgray;
+   text-align: center;
+   margin: auto;
+   width: 70%;
+}
+img{
+   float: center;
+   width: 30%;
+}
+
+#img6{
+   clear: both;
+   
+}
